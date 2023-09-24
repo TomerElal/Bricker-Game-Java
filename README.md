@@ -5,7 +5,6 @@
 - [Project Description](#Project-Description)
 - [Features](#Features)
 - [Installation](#installation)
-- [UML](#UML)
 - [Extensions](#Extensions)
 - [Credits](#credits)
 - [Contact](#contact)
